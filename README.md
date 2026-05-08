@@ -50,7 +50,6 @@ Dự án này sử dụng Machine Learning (Phương pháp phân cụm K-Means) 
 ## 🚀 Cách chạy dự án
 Để chạy dự án này trên máy tính của bạn, hãy thực hiện theo các bước sau:
 1. **Clone dự án:** git clone https://github.com/TranKhoa895/PL-Performance-Clustering.git
-cd ten-repo
 2. **Cài đặt thư viện:** 
 Bạn nên sử dụng môi trường ảo (venv) để tránh xung đột thư viện:
     pip install pandas scikit-learn seaborn matplotlib 
