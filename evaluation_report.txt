@@ -1,0 +1,7 @@
+BÁO CÁO ĐÁNH GIÁ MÔ HÌNH PHÂN CỤM
+==============================
+Silhouette Score: 0.3240
+Davies-Bouldin Index: 0.9131
+Calinski-Harabasz Index: 13.8369
+==============================
+Đã hoàn thành phân tích 20 đội bóng Premier League.
